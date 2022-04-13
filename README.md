@@ -1,2 +1,2 @@
 # G2LP-Net
-There are some examples of video inpainting results presented as .mp4 files.
+There are some examples of wire-removal results presented with .mp4 files.
