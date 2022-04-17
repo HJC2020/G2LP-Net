@@ -9,7 +9,7 @@ Extensive experiments on DAVIS and Youtube-VOS datasets as well as our Wire-remo
 
 https://user-images.githubusercontent.com/46954741/163672014-833ea266-48bc-46af-aa93-501d7db7053f.mp4
 
-(if the above is not avaliable, see links below)
+If the above video window is not avaliable, see links below or download mp4 files directly.
 
 https://www.youtube.com/shorts/e7WUvrL9yLw 
 
